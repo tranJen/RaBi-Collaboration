@@ -1,6 +1,13 @@
 # RaBi-Collaboration
 
-## Where to find data and coding scripts?
+## Where to find files
+
+### Summarized Report for GLM
+RaBi_Collaboration Report__Suong Tran. pdf
+
+### Chemistry Honors Thesis
+Chemistry Honor Thesis__Suong Tran.pdf
+
 #### Navigate each folder with experiment name to find the raw data and coding scripts for plot
 
   - Developing GLM for predict contribution of each LgBiT mutants to binding preference between SmBiTs
