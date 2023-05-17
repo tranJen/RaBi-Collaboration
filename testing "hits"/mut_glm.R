@@ -5,7 +5,7 @@ library(readr)
 library(tidyverse)
 
 # Load the data
-data <- read_csv('https://raw.githubusercontent.com/tranJen/GLMNanoBiT_Honors_Thesis/main/GLM/testing%20%22hits%22/mutation_glm.csv')
+data <- read_csv('https://raw.githubusercontent.com/tranJen/RaBi-Collaboration/main/testing%20%22hits%22/mutation_glm.csv')
 
 # Reshape data from wide to long format
 data_long <- pivot_longer(data, cols = starts_with("CyanToYellow"), 

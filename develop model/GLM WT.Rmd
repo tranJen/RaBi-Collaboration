@@ -13,8 +13,8 @@ library(broom)
 ```
 
 ```{r}
-for_colab_RA <- read_csv("https://raw.githubusercontent.com/tranJen/GLMNanoBiT_Honors_Thesis/main/GLM/develop%20model/Data_Akrong.csv")
-for_colab_AM <- read_csv("https://raw.githubusercontent.com/tranJen/GLMNanoBiT_Honors_Thesis/main/GLM/develop%20model/Data_McGahan.csv")
+for_colab_RA <- read_csv("https://raw.githubusercontent.com/tranJen/RaBi-Collaboration/main/develop%20model/Data_Akrong.csv")
+for_colab_AM <- read_csv("https://raw.githubusercontent.com/tranJen/RaBi-Collaboration/main/develop%20model/Data_McGahan.csv")
 ```
 
 #### *AM does not have D147E mutation but RA does.*
