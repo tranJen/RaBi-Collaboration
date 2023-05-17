@@ -1,11 +1,11 @@
 # RaBi-Collaboration
 
-## Where to find files
+## Navigate files
 
-### Summarized Report for GLM
+#### Summarized Report for GLM
 RaBi_Collaboration Report__Suong Tran. pdf
 
-### Chemistry Honors Thesis
+#### Chemistry Honors Thesis
 Chemistry Honor Thesis__Suong Tran.pdf
 
 #### Navigate each folder with experiment name to find the raw data and coding scripts for plot
